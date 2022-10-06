@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   - O eslint é uma biblioteca que ajuda na padronização do codigo.
 - [Prettier](https://prettier.io/)
   - O prettier é uma biblioteca que ajuda na padronização do codigo, assim como o eslint.
-- [tailwindcss](https://tailwindcss.com/)
+- [Tailwindcss](https://tailwindcss.com/)
   - O Tailwindcss é uma biblioteca para estilos no ReactJS usando CSS-in-JS.
   - No projeto, foi utilizado para facilitar na criação de estilos.
 - [Axios](https://github.com/axios/axios)
