@@ -30,9 +30,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🎨 Layout
 
 <h1 align="center">
-  <img src="github/mainPage.png" width="250">
-  <img src="github/postPage.png" width="250">
-  <img src="github/contactPage.png" width="250">
+  <img src="appPictures/mainPage.png" width="250">
+  <img src="appPictures/postPage.png" width="250">
+  <img src="appPictures/contactPage.png" width="250">
 </h1>
 
 <a id="como-usar"></a>
