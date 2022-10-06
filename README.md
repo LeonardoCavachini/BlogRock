@@ -31,8 +31,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <h1 align="center">
   <img src=".github/mainPage.png" width="250">
-  <img src=".github/PostPage.png" width="250">
-  <img src=".github/ContactPage.jpeg" width="250">
+  <img src=".github/postPage.png" width="250">
+  <img src=".github/contactPage.png" width="250">
 </h1>
 
 <a id="como-usar"></a>
