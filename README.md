@@ -42,3 +42,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 1. Faça um clone desse repositório: `git clone https://github.com/leonardoCavachini/blogRock.git`
 2. Instale as dependências: `npm install` ou `yarn`
 3. Inicie a aplicação: `npm run dev` ou `yarn run dev`
+
+## Ver aplicação
+- [web](https://leonardocavachini.github.io/blogRock/)
